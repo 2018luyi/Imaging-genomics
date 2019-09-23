@@ -20,6 +20,7 @@
 #### Medical Image Analysis 
 - [Anatomically constraint neural networks](https://arxiv.org/pdf/1705.08302.pdf)
 - [Atlas-based segmentation](https://link.springer.com/chapter/10.1007/978-0-387-09749-7_12)
+- [Left ventricle quantification throughspatio-temporal CNNs](https://arxiv.org/pdf/1808.07967.pdf)
 
 #### Work on the UK Biobank
 - [The UK Biobank resource with deep phenotyping and genomic data](https://www.nature.com/articles/s41586-018-0579-z.pdf)
@@ -29,6 +30,12 @@
 
 #### Modeling heart dynamics
 - [Bilinear Models for Spatio-Temporal Point Distribution Analysis](http://www.cistib.org/gestpub/attachments/Bilinear%20Models%20for%20Spatio-Temporal%20Point%20Distribution%20Analysis%20Application%20to%20Extrapolation%20of%20Left%20Ventricular%20Biventricular%20and%20Whole%20Heart%20Cardiac%20Dynamics.pdf-60a6156bf65fb1f7c3edc52c3e408fcd.pdf).
+
+#### Hierarchical models
+- [Nonparametric Variational Auto-encoders forHierarchical Representation Learning](https://arxiv.org/pdf/1703.07027.pdf)
+
+#### Autoencoders
+- [Tutorial on VAEs](https://arxiv.org/pdf/1606.05908.pdf)
 
 #### Causal Inference
 - [Causal inference in statistics:An overview (by Judea Pearl)](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
