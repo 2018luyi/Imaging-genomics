@@ -12,6 +12,7 @@
 - [Three-dimensional cardiovascular imaging-genetics: a mass univariate framework.](https://www.ncbi.nlm.nih.gov/pubmed/28968671)
 - [CardioClassifier: disease- and gene-specific computational decision support for clinical genome interpretation.](https://www.ncbi.nlm.nih.gov/pubmed/29369293)
 - [Deep learning cardiac motion analysis for human survival prediction.](https://www.ncbi.nlm.nih.gov/pubmed/30801055)
+- [GWAS of imaged-derived cardiac phenotypes](https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.119.041161)
 
 #### Genetics of cardiac phenotypes
 - [Complex roads from genotype to phenotype in dilated cardiomyopathy: scientific update from the Working Group of Myocardial Function of the European Society of Cardiology.](https://www.ncbi.nlm.nih.gov/pubmed/29800419)
